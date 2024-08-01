@@ -1,2 +1,5 @@
 # 代理列表
 DOMAIN-KEYWORD,yandex
+
+# 代理域名
+DOMAIN-SUFFIX,hub.docker.com
