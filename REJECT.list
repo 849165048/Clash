@@ -7,3 +7,6 @@ DOMAIN-SUFFIX,wn1998.com
 DOMAIN-SUFFIX,backup.www.hostbuf.com
 DOMAIN-SUFFIX,pwlt.wn1998.com
 DOMAIN-SUFFIX,tivimate.b4a.io
+
+# 拦截关键词
+DOMAIN-KEYWORD,hostbuf
