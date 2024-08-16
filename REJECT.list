@@ -10,3 +10,4 @@ DOMAIN-SUFFIX,tivimate.b4a.io
 
 # 拦截关键词
 DOMAIN-KEYWORD,hostbuf
+DOMAIN-KEYWORD,tivimate
