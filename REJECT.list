@@ -12,13 +12,15 @@ DOMAIN-SUFFIX,tivimate.b4a.io
 DOMAIN-KEYWORD,hostbuf
 DOMAIN-KEYWORD,tivimate
 
+# MiTV ADBlock
+# DOMAIN-SUFFIX,api.io.mi.com 米家app
+
 DOMAIN-SUFFIX,ad.mi.com 
 DOMAIN-SUFFIX,ad.xiaomi.com 
 DOMAIN-SUFFIX,ad1.xiaomi.com 
 DOMAIN-SUFFIX,app.chat.xiaomi.net 
 DOMAIN-SUFFIX,appstore.cdn.pandora.xiaomi.com 
 DOMAIN-SUFFIX,appstore.pandora.xiaomi.com 
-# DOMAIN-SUFFIX,api.io.mi.com 米家app
 DOMAIN-SUFFIX,api.ad.xiaomi.com 
 DOMAIN-SUFFIX,ad.doubleclick.net 
 DOMAIN-SUFFIX,bss.pandora.xiaomi.com 
