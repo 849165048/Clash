@@ -14,6 +14,7 @@ DOMAIN-KEYWORD,tivimate
 
 # MiTV ADBlock
 # DOMAIN-SUFFIX,api.io.mi.com 米家app
+# DOMAIN-SUFFIX,device.io.mi.com 米家app
 
 DOMAIN-SUFFIX,ad.mi.com 
 DOMAIN-SUFFIX,ad.xiaomi.com 
@@ -30,7 +31,6 @@ DOMAIN-SUFFIX,config.kuyun.com
 DOMAIN-SUFFIX,dvb.pandora.xiaomi.com 
 DOMAIN-SUFFIX,de.pandora.xiaomi.com 
 DOMAIN-SUFFIX,data.mistat.xiaomi.com 
-DOMAIN-SUFFIX,device.io.mi.com 
 DOMAIN-SUFFIX,f1.market.xiaomi.com 
 DOMAIN-SUFFIX,f2.market.xiaomi.com 
 DOMAIN-SUFFIX,f3.market.xiaomi.com 
