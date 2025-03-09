@@ -1,3 +1,26 @@
 # 直连关键词
 # DOMAIN-KEYWORD,dl-a10b
+DOMAIN-KEYWORD,stun
 # 直连域名
+DOMAIN-SUFFIX,stun.radiojar.com 
+DOMAIN-SUFFIX,stun.ringostat.com 
+DOMAIN-SUFFIX,stun.irishvoip.com 
+DOMAIN-SUFFIX,stun.voipgate.com 
+DOMAIN-SUFFIX,stun.tula.nu 
+DOMAIN-SUFFIX,stun.miwifi.com 
+DOMAIN-SUFFIX,stun.yesdates.com 
+DOMAIN-SUFFIX,stun.telnyx.com 
+DOMAIN-SUFFIX,stun.vavadating.com 
+DOMAIN-SUFFIX,stun.bau-ha.us 
+DOMAIN-SUFFIX,stun.bridesbay.com 
+DOMAIN-SUFFIX,stun.3wayint.com 
+DOMAIN-SUFFIX,stun.finsterwalder.com 
+DOMAIN-SUFFIX,stun.romaaeterna.nl 
+DOMAIN-SUFFIX,stun.fitauto.ru 
+DOMAIN-SUFFIX,stun.antisip.com 
+DOMAIN-SUFFIX,stun.heeds.eu 
+DOMAIN-SUFFIX,stun.hot-chilli.net 
+DOMAIN-SUFFIX,stun.eurosys.be 
+DOMAIN-SUFFIX,stun.vincross.com 
+DOMAIN-SUFFIX,stun.cibercloud.com.br 
+DOMAIN-SUFFIX,stun.siptrunk.com 
