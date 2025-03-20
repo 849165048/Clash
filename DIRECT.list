@@ -1,7 +1,10 @@
 # 直连关键词
 DOMAIN-KEYWORD,dl-a10b
 DOMAIN-KEYWORD,dl-z01a
-# DOMAIN-KEYWORD,stun
+DOMAIN-KEYWORD,stun
+
+#直连端口
+DST-PORT,3478
 
 # 直连域名
 DOMAIN-SUFFIX,stun.radiojar.com 
