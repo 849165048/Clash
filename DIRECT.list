@@ -1,6 +1,8 @@
 # 直连关键词
-# DOMAIN-KEYWORD,dl-a10b
-DOMAIN-KEYWORD,stun
+DOMAIN-KEYWORD,dl-a10b
+DOMAIN-KEYWORD,dl-z01a
+# DOMAIN-KEYWORD,stun
+
 # 直连域名
 DOMAIN-SUFFIX,stun.radiojar.com 
 DOMAIN-SUFFIX,stun.ringostat.com 
