@@ -1,8 +1,8 @@
 # 代理列表
 
 # 代理关键词
-DOMAIN-KEYWORD,yandex
-DOMAIN-KEYWORD,docker
+#DOMAIN-KEYWORD,yandex
+#DOMAIN-KEYWORD,docker
 
 # 代理域名
-DOMAIN-SUFFIX,hub.docker.com
+#DOMAIN-SUFFIX,hub.docker.com
