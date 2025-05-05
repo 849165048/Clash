@@ -5,4 +5,4 @@
 
 
 # 代理域名
-#DOMAIN-SUFFIX,hub.docker.com
+DOMAIN-SUFFIX,greasyfork.org
