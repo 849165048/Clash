@@ -6,3 +6,4 @@ DOMAIN-KEYWORD,stun
 
 # 直连域名
 DOMAIN-SUFFIX,international-gfe.download.nvidia.com
+DOMAIN-SUFFIX,releases.ubuntu.com
