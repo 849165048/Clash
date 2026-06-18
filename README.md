@@ -1,3 +1,3 @@
 # Clash
 
-Clash自用规则
+OpenClash订阅配置
